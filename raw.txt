@@ -1,0 +1,5 @@
+\AIR INDIA
+
+For Auth---------
+install bcrypt and jsonwebtoken and passport,passport-jwt,
+passport-local
